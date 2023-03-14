@@ -60,3 +60,7 @@ String aFurtherEncodedMessage = vc.encode(“attackAtdaWn”);
 
 System.out.println(aFurtherEncodedMessage); // lxfopvefrnhr
 
+————————————————————————————
+Name: Michelle Min
+
+Partner: None
